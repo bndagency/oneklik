@@ -13,7 +13,7 @@
     <nav class="bg-white shadow">
   <div class="container mx-auto px-6 py-4 flex items-center justify-between">
     <div class="text-2xl font-bold text-blue-600">
-      <a href="/"><img class="w-16 h-8" src="img/logook.png" alt="logo oneklik"></a>
+      <a href="/"><img class="w-18 h-10" src="img/logook.png" alt="logo oneklik"></a>
     </div>
     <div class="hidden md:flex space-x-8">
       <a href="/" class="block py-2 text-gray-700 hover:text-blue-600 transition">Home</a>

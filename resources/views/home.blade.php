@@ -13,7 +13,7 @@
     <nav class="bg-white shadow">
   <div class="container mx-auto px-6 py-4 flex items-center justify-between">
     <div class="text-2xl font-bold text-blue-600">
-      <a href="/"><img class="w-16 h-8" src="img/logook.png" alt="logo oneklik"></a>
+      <a href="/"><img class="w-18 h-10" src="img/logook.png" alt="logo oneklik"></a>
     </div>
     <div class="hidden md:flex space-x-8">
       <a href="/" class="block py-2 text-gray-700 hover:text-blue-600 transition">Home</a>
@@ -53,10 +53,11 @@
     <header class="bg-white shadow">
         <div class="container mx-auto px-6 py-16 text-center">
             <h1 class="text-4xl md:text-5xl font-bold mb-4">
-                Jasa Profesional Web Developer, Ads & Konten Kreator
+                
+Solusi Digital Terpercaya untuk Bisnis Anda
             </h1>
             <p class="text-lg md:text-xl mb-8 max-w-3xl mx-auto">
-                Membantu bisnis Anda tumbuh dengan website berkualitas, iklan efektif, dan konten kreatif.
+                Oneklik.agency menyediakan layanan web development, iklan digital, dan konten kreator untuk membantu bisnis Anda tumbuh di era digital.
             </p>
             <a href="#services" class="inline-block bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition">
                 Pelajari Lebih Lanjut
